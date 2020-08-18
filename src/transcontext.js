@@ -31,4 +31,4 @@ export const Transactionprovider = ({children}) =>{
 
            </transcontext.Provider>
      )
-}
+ }
